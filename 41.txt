@@ -1,0 +1,22 @@
+1.Name: Abu Zafor Al mahfuz
+ sectin: A
+ Id no: 1612020020
+ Contact Number: 01738984932
+
+
+2.Name: Raju naidu
+ sectin: B
+ Id no: 1612020083
+ Contact Number: 01793794938
+
+
+3.Name: S.M Kamal Hussain Shahi
+ sectin: C
+ Id no: 1612020121
+ Contact Number: 01746799842
+
+
+4.Name: Rafat Ullah
+ sectin: D+E
+ Id no: 1612020169
+ Contact Number: 01777095626

@@ -1,0 +1,28 @@
+Name: MD Nazmul Huda
+     sectin: A
+     Id no: 1712020035
+     Contact Number: 01823561991
+
+
+Name: S.M. Musarraf Hussain Sadi
+     sectin: B
+     Id no: 1712020087
+     Contact Number: 01764754903
+
+
+Name: Md Tawsif Ul Hye Chowdhury
+     sectin: C
+     Id no: 1712020094
+     Contact Number: 01775286080
+
+
+Name: Emdadul Islam
+      sectin: d
+      Id no: 1712020148
+      Contact Number: 01742497967
+
+
+Name: Tahmid Hussain
+sectin: E+F
+Id no: 1712020184
+Contact Number: 0168856557

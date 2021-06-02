@@ -1,0 +1,28 @@
+Name: Md nafiul Hasan Chowdhury
+      sectin: A
+      Id no: 1812020034
+      Contact Number: 01774090740
+
+
+Name: Tamim Ahmed
+      sectin: B
+      Id no: 1812020049
+      Contact Number: 01632644928
+
+
+Name:A.S.M Wasim
+    sectin: C
+    Id no: 1812020119
+    Contact Number: 01756376101
+
+
+Name: TanZil Ebad Chowdhury
+      sectin: D
+     Id no: 1812020179
+     Contact Number: 01746545650
+
+
+Name: Bdullah Al Nayeem
+sectin: E+F
+Id no: 1812020201
+Contact Number: 01710461144

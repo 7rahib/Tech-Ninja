@@ -1,0 +1,44 @@
+Name: Ajijur Rahman Sany
+Section: A
+ID no: 2012020035
+Contact No: 01768233460
+
+Name: Alavi Rafid Khan
+Section: B
+ID no: 2012020063
+Contact No: 01869214341
+
+Name: Mahfuz Chowdhury
+Section: C
+ID no:
+Contact No:
+
+Name: Tanjid Islam
+Section: D
+ID no:
+Contact No: 01753222516
+
+Name: Saif Uddin Srabon
+Section: E
+ID no: 2012020184
+Contact No: 01742026583
+
+Name: Md. Akter Hossain
+Section: F
+ID no: 2012020234
+Contact No: 01779862713
+
+Name: Sajid Abdullah
+Section: G
+ID no: 2012020304
+Contact No: 01722100839
+
+Name: Mizanur Rahman Bijoy
+Section: H
+ID no: 1912020323
+Contact No: 01786935388
+
+Name: Mariama Sultana
+Section: I
+ID no: 1912020375
+Contact No: 01728587873

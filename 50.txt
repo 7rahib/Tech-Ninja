@@ -1,0 +1,34 @@
+Name: Abu Taher Mohammad Nayem
+Section: A
+ID no: 1912020044
+Contact No: 01792142478
+
+Name: Nakib Islam Chowdhury
+Section: B
+ID no: 1912020056
+Contact No: 01307664678
+
+Name: Naeem Ahsan Chowdhury
+Section: C
+ID no: 1912020107
+Contact No: 01994900475
+
+Name: Sharif Ahmed
+Section: D
+ID no: 1912020165
+Contact No: 01307664678
+
+Name: Tanjid Ahmede
+Section: E
+ID no:
+Contact No:
+
+Name: Sheikh Jubayer Hussain
+Section: F
+ID no:
+Contact No:
+
+Name: Priyanka Rani Deb
+Section: G
+ID no: 1912020256
+Contact No: 01742026583
